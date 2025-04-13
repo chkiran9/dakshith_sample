@@ -4,7 +4,7 @@ def multiplication(i = 1):
      for j in range(1, 11):
             print(f"{i} x {j} = {i * j}")
 
-multiplication(i=12)
+multiplication(i=14)
 
 
 
