@@ -13,3 +13,4 @@ def add(x, y):
 print(add(2, 5))
 print(add(72, 27))
 print(multiply(6 ,4))
+print(add(2,5))
